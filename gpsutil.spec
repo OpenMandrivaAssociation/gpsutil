@@ -11,7 +11,6 @@ Source:		%{name}-%{version}.tar.bz2
 URL:		http://www.cs.uakron.edu/~hennings/gpsutil/
 License:	GPL
 Group:		Communications
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 GPSUTIL is a program to communicate with a GPS unit. It supports several NMEA
