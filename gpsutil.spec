@@ -8,7 +8,7 @@ Version: 	%{version}
 Release: 	%{release}
 
 Source:		%{name}-%{version}.tar.bz2
-URL:		http://www.cs.uakron.edu/~hennings/gpsutil/
+URL:		https://www.cs.uakron.edu/~hennings/gpsutil/
 License:	GPL
 Group:		Communications
 BuildRoot:	%{_tmppath}/%{name}-buildroot
