@@ -13,6 +13,7 @@ License:	GPL
 Group:		Communications
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 
+BuildRequires:	make
 %description
 GPSUTIL is a program to communicate with a GPS unit. It supports several NMEA
 (National Marine Electronics Association) v2.1 messages. GPSUTIL also supports
