@@ -1,6 +1,6 @@
 %define name	gpsutil
 %define version	0.10
-%define release  %mkrel 5
+%define release 6
 
 Name: 	 	%{name}
 Summary: 	Transfers data to/from a Magellan or NMEA-compliant GPS
